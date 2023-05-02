@@ -21,7 +21,7 @@
 	</a>
 </p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.visitor-badge.issue.1&title=Github%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=priyankasanodiya14.visitor-badge.issue.1&title=Github%20Visitors)
 ![Github Followers](https://img.shields.io/github/followers/priyankasanodiya14?label=Github%20Connection&style=flat)
 </div>
 <p  align="center">
