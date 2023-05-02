@@ -22,7 +22,7 @@
 </p>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vikas-011.visitor-badge.issue.1&title=Github%20Visitors)
-![Github Followers](https://img.shields.io/github/followers/vikas-011?label=Github%20Connection&style=flat)
+![Github Followers](https://img.shields.io/github/followers/priyankasanodiya14?label=Github%20Connection&style=flat)
 </div>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -32,7 +32,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **backend projects**
+- 👯 I’m looking to collaborate on **Backend projects**
 
 - 📫 How to reach me **sanodiyapriyanka68@gmail.com**
 
