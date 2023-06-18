@@ -56,7 +56,7 @@
 
 
 <p align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HoshiyarJyani's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiyarjyani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></p>
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Priyanka's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasanodiya14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></p>
 
   <br/>
   
@@ -64,8 +64,8 @@
 
   
 <p align="center">
-     <img alt="HoshiyarJyani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoshiyarjyani&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoshiyarjyani&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+     <img alt="Priyanka's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priyankasanodiya14&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasanodiya14&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
 
  </p> 
  <br/>
