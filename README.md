@@ -52,8 +52,36 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="70"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="70"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" height="70"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasanodiya14&show_icons=true&locale=en&layout=compact" alt="priyankasanodiya14" /></p>
+## 📊 My Github Stats
+
+
+<p align="center">
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HoshiyarJyani's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=hoshiyarjyani&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></p>
+
+  <br/>
+  
+  
+
+  
+<p align="center">
+     <img alt="HoshiyarJyani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoshiyarjyani&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoshiyarjyani&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+
+ </p> 
+ <br/>
+
+
+<br/>
+<br/>
+<div> 
+
+   
+  ![Snake animation Game](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankasanodiya14&show_icons=true&locale=en&layout=compact" alt="priyankasanodiya14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankasanodiya14&show_icons=true&locale=en" alt="priyankasanodiya14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasanodiya14&" alt="priyankasanodiya14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankasanodiya14&" alt="priyankasanodiya14" /></p> -->
