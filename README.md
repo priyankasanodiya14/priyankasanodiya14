@@ -55,18 +55,12 @@
 ## 📊 My Github Stats
 
 
-<!--  GitHub Stats   -->
-<!-- <img src = "https://github-readme-stats.vercel.app/api?username=priyankasanodiya14&show_icons=true&theme=react&hide_border=true&bg_color=0F1000"> -->
-<img src = "https://github-readme-stats.vercel.app/api?username=priyankasanodiya14&show_icons=true&theme=remix&hide_border=false&bg_color=FFFFFF" width="1000" height="200" />
 
 
 <!--  Most Used Languages    -->
 <!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=priyankasanodiya14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"> -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=priyankasanodiya14&langs_count=8&count_private=true&layout=compact&theme=nuxt&bg_color=FFFFFF" width="1000" height="203" />
 
-<!--  Streak Stats  -->
-<img src = "https://github-readme-streak-stats.herokuapp.com/?user=priyankasanodiya14&theme=nuxt&bg_color=0D1117" width="1000" height="200" />
-<!-- <img src = "https://github-readme-streak-stats.herokuapp.com/?user=priyankasanodiya14&theme=tokyonight&bg_color=0D1117"> -->
 
   <br/>
   
