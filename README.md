@@ -13,8 +13,8 @@
 	<a href="https://www.linkedin.com/in/priyanka-s-ab4614229/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-   <a href="https://priyankasanodiya14.github.io">
-		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" />
+<!--    <a href="https://priyankasanodiya14.github.io">
+		<img src="https://img.shields.io/badge/portfolio-003049?style=for-the-badge&logo=About.me&logoColor=white" /> -->
 	</a>
     <a href="mailto:sanodiyapriyanka68@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
