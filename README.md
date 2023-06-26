@@ -33,7 +33,9 @@
 - 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **Backend projects**
-
+- 🔭 I’m currently working on **Amusement Park Management System**
+- 👨‍💻 All of my projects are available at https://priyankasanodiya14.github.io
+- 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 - 📫 How to reach me **sanodiyapriyanka68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
