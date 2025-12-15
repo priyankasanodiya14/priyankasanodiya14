@@ -30,11 +30,10 @@
 
 <h2><i>What I'm focusing on 👨‍</i></h2>
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently working **AI , Cloud, Springboot, Python**
 
 - 👯 I’m looking to collaborate on **Backend projects**
 - 👨‍💻 All of my projects are available at https://priyankasanodiya14.github.io
-- 💬 Ask me about JAVA Spring Hibernate MySQL HTML CSS JavaScript BootStrap and DSA
 - 📫 How to reach me **sanodiyapriyanka68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
